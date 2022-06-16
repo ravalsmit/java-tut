@@ -1,0 +1,12 @@
+                            Difference between Abstract and Interface
+                            
+1] Abstract class can have any access modifiers for members. 
+    Interface can have only public Modifier for members.
+
+2] Abstract class may or may not conatain abstract methods.
+   Interface can not have contain define any method and default abstract method.
+
+3] Abstract can have static or non-static members. same for final
+   Interface can have only static members. same for final
+
+4] Interface do not have constructor unlike abstract class.
